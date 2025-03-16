@@ -21,4 +21,9 @@ nav ul li {
     display: inline;
     margin: 0 15px;
 }
-nav ul li
+nav ul li a :hover {
+    text-decoration: underline;
+}
+main{
+    padding: 20px;
+}
